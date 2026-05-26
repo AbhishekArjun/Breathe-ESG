@@ -1,0 +1,9 @@
+backend/
+sample_data/
+docs/
+.git/
+venv/
+*.pyc
+__pycache__/
+.env
+*.sqlite3
