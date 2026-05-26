@@ -35,7 +35,7 @@ body {
 .badge-scope3    { @apply bg-teal-900/50 text-teal-300; }
 
 .table-row-hover {
-  @apply hover:bg-slate-750 transition-colors duration-75;
+  @apply hover:bg-slate-700 transition-colors duration-75;
 }
 
 ::-webkit-scrollbar { width: 6px; height: 6px; }
